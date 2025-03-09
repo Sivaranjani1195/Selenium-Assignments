@@ -61,7 +61,7 @@ public class LearningDropdown {
 		System.out.println("Title of the current page is: " +title);
 		
 		//Closing current window
-		//driver.close();
+		driver.close();
 		
 	
 		
