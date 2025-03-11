@@ -4,7 +4,7 @@ public class FibonacciSeries {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int number =8;
+		int number =100;
 		
 		int num1 = 0;
 		int num2 = 1;
